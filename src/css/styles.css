@@ -1,5 +1,5 @@
 @import url('./utils/fonts.css');
-@import url('./utils/vars.css');
+@import url('./utils/variables.css');
 @import url('./utils/reset.css');
 @import url('./components/gallery.css');
 @import url('./components/form.css');
